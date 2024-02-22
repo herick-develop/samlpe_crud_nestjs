@@ -11,7 +11,7 @@ export const SupportProviders = [
             host: 'localhost',
             port: 3306,
             username: 'root',
-            password: 'admin',
+            password: 'root',
             database: 'todo',
             entities: [
                 TodoEntity

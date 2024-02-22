@@ -1,0 +1,1 @@
+{"version":3,"file":"todo.provider.js","sourceRoot":"","sources":["../../../src/app/todo/todo.provider.ts"],"names":[],"mappings":";;;AACA,uDAAmD;AAEtC,QAAA,aAAa,GAAG;IACzB;QACI,OAAO,EAAE,oBAAoB;QAC7B,UAAU,EAAE,CAAC,UAAsB,EAAE,EAAE,CAAC,UAAU,CAAC,aAAa,CAAC,wBAAU,CAAC;QAC5E,MAAM,EAAE,CAAC,aAAa,CAAC;KAC1B;CACJ,CAAA"}
